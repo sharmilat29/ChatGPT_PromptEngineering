@@ -1,6 +1,6 @@
 # ChatGPT Prompt Engineering :bulb:
 
-Welcome to the ChatGPT Prompt Engineering GitHub repository! This project is dedicated to exploring and innovating within the realm of prompt engineering for ChatGPT. Following along the ChatGPT Prompt Engineering course by DeepLearning.ai, the following Jupyter Notebooks contain a series of experiments, tutorials, and insights designed to enhance the effectiveness of ChatGPT prompts.
+Welcome to the ChatGPT Prompt Engineering GitHub repository! This project is dedicated to exploring and innovating within the realm of prompt engineering for ChatGPT. Following along the ChatGPT Prompt Engineering course by DeepLearning.ai, the following Jupyter notebooks contain a series of experiments, tutorials, and insights designed to enhance the effectiveness of ChatGPT prompts.
 
 ## Overview :mag:
 
@@ -15,8 +15,8 @@ Prompt engineering is the art and science of crafting prompts that elicit desire
 ## Getting Started :rocket:
 
 1. Clone this repository to get started.
-2. Navigate to the Jupyter Notebooks directory.
-3. Open the notebooks in Jupyter Lab or Notebook to explore the tutorials and examples.
+2. Navigate to the Jupyter_Notebooks directory.
+3. Open the notebooks in Jupyter Lab or Notebook to explore the tutorials and examples. (Get your OpenAI API key first!)
 
 ## Contributing :handshake:
 
